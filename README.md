@@ -9,4 +9,4 @@ The requirment for this assignment was design a Weather forecast website with he
 **Features:**
 A search box to enter city name, there is a switch to change the app theme to dark or light with help of context react. 
 
-**Here is the wirefram screenshots of this assignment**
+https://eljafari.github.io/WeatheReact/
